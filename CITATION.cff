@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: ngsigw-results
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file, and also cite arXiv:2105.01659 as
+  specified in the project README.
+type: software
+authors:
+  - given-names: Peter
+    family-names: Adshead
+    orcid: 'https://orcid.org/0000-0002-5217-7022'
+  - given-names: Kaloian
+    family-names: Lozanov
+    orcid: 'https://orcid.org/0000-0003-2164-7930'
+  - given-names: Zachary
+    family-names: Weiner
+    orcid: 'https://orcid.org/0000-0003-1755-2277'
+identifiers:
+  - type: other
+    value: 'arXiv:2105.01659'
+repository-code: 'https://github.com/zachjweiner/ngsigw-results'
+repository-artifact: 'https://zenodo.org/badge/latestdoi/668438090'
+license: CC0-1.0
+version: '2023.1'

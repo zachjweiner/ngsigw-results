@@ -1,0 +1,33 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+    "setuptools>=42",
+    "wheel",
+]
+
+[project]
+name = "ngsigw_results"
+version = "2023.1"
+license = {file = "LICENSE"}
+description = "Numerical results for gravitational waves induced by non-Gaussian scalars"
+readme = "README.rst"
+authors = [
+    {name = "Zachary J Weiner"}
+]
+requires-python = ">=3.9"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = [
+    "numpy",
+    "h5py",
+]
+
+[project.urls]
+homepage = "https://github.com/zachjweiner/ngsigw-results"
+source = "https://github.com/zachjweiner/ngsigw-results"
