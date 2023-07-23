@@ -2,7 +2,7 @@ ngsigw-results
 ==============
 
 .. image:: https://zenodo.org/badge/668438090.svg
-    :target: https://zenodo.org/badge/latestdoi/668438090
+    :target: https://doi.org/10.5281/zenodo.8176107
 .. image:: https://img.shields.io/badge/arXiv-2105.01659-b31b1b.svg
     :target: https://arxiv.org/abs/2105.01659
 .. image:: https://img.shields.io/badge/License-CC--0-blue.svg
@@ -21,4 +21,4 @@ You can of course clone the repository first and then install.
 
 The data, being "factual" in nature and likely not subject to copyright law, is available under `CC0 <https://creativecommons.org/publicdomain/zero/1.0/>`_.
 For convenience, the code itself is also available under CC0.
-However, if you use these results please cite both this repoository (refer to the `Zenodo archive <https://zenodo.org/badge/latestdoi/668438090>`_ or the sidebar on GitHub/``CITATION.cff``) and the original article itself (e.g., with the BibTeX entry `here <https://inspirehep.net/literature/1862163>`_).
+However, if you use these results please cite both this repoository (refer to the `Zenodo archive <https://doi.org/10.5281/zenodo.8176107>`_ or the sidebar on GitHub/``CITATION.cff``) and the original article itself (e.g., with the BibTeX entry `here <https://inspirehep.net/literature/1862163>`_).
